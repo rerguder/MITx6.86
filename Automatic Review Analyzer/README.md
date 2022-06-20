@@ -1,6 +1,12 @@
+
+
 # MITx6.86
 Machine Learning with Python: From Linear Models to Deep Learning
-''' project:        MITx6.86 Project 1: Automatic Review Analyzer
+
+''' 
+
+
+    project:        MITx6.86 Project 1: Automatic Review Analyzer
     skeleton by:    MITx6.86 Staff
     code by:        Reyyan ERGUDER (written code highlighted by '# Implementation Code')
     change:         2022-6-15
